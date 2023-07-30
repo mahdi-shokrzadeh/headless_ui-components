@@ -6,6 +6,7 @@ import ListBox from "./components/ListBox";
 import Disclosures from "./components/Disclosures";
 import Dialog from "./components/Dialog";
 import RadioGroup from "./components/RadioGroup";
+import Tasbs from "./components/Tabs";
 
 const App = () => {
 
@@ -19,6 +20,7 @@ const App = () => {
                 <Combobox />
                 <Disclosures />
                 <RadioGroup />
+                <Tasbs />
               
             </div>
         </>

@@ -226,3 +226,49 @@ button:hover {
   background-color: #2cbdb6;
   border: 2px solid rgb(109, 213, 177);
 }
+
+#tabs {
+  background: rgb(56,188,248);
+  background: linear-gradient(60deg, rgba(56,188,248,1) 3%, rgba(37,100,235,1) 100%);
+  border-radius: 15px;
+}
+
+#tabs-section {
+  width: 60%;
+}
+#tabs-section button {
+  background-color: transparent;
+  font-size: 15px;
+}
+#tabs-section button:hover {
+  background-color: #72c7ff7c;
+}
+
+#tabs-section #active-btn {
+  background-color: white;
+  color: blue;
+}
+#tab-item {
+  text-align: left;
+  border-radius: 15px;
+}
+#tab-item h5 {
+  font-size: 14px;
+    
+}
+#tab-item span {
+  font-size: 13px;
+}
+#tab-item:hover {
+  background-color: #F3F4F6;
+}
+
+#tab-headers {
+  background-color: #286CDA;
+  border-radius: 14px;
+ 
+}
+
+.tabs {
+  border-radius: 14px;
+}
