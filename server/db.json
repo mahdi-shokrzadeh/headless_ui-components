@@ -1,0 +1,43 @@
+{
+    "groups" : [
+        {   
+            "id" : 1 ,
+            "text" : "Wade Cooper"
+        } ,
+        {   
+            "id" : 2 ,
+            "text" : "Arlene Mccoy"
+        } ,
+        {   
+            "id" : 3 ,
+            "text": "Devon Webb"
+        },
+        {   
+            "id" : 4 ,
+            "text" : "Tom Cook"
+        },
+        {   
+            "id" : 5 ,
+            "text" : "Tanya Fox"
+        },
+        {   
+            "id" : 6 ,
+            "text" : "Hellen Schmidt"
+        }
+    ] ,
+
+
+    "disclosures" : [
+        {
+            "id" : 1 ,
+            "question" : "What is your refund policy ?" ,
+            "answer" : "If you're unhappy with your purchase for any reason, email us within 90 days and we'll refund you in full, no questions asked."
+        },
+        {
+            "id" : 2 ,
+            "question" : "Do you offer technical support ?" ,
+            "answer" : "No ."
+        }
+    ]
+
+}
